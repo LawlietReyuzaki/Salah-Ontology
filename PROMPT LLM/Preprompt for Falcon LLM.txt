@@ -1,0 +1,34 @@
+1. personid is person name
+2. Timestamp is not included 
+3. Namaz which Namaz is the person praying
+4. Salah Unit which salah is he praying
+5. Enetred_Rakah
+
+
+
+
+PROMPT:
+Ignore the sentence 'I am making niyat' and identify as many relation as possible of the following:
+
+personid is the name of the person
+Namaz is the name of name (Fajr, Zuhr, Asar, Maghrib, Isha)
+Salah Unit is the either 'Farz' or 'Sunnah'
+Entered_Rakah is the number of total Rakkah the person is going to pray 
+
+(he will explicitly state all of these things in prompt, incase if anyone of these is missing then add Missing)
+
+Example prompt:
+
+My name is Hassan. I am making niyat of Namaz Fajr. I am going to offer Farz Namaz with total rakkah 2.
+
+Output Relations:
+
+personid = Hassan
+Namaz = Fajr
+Salah Unit = Farz
+Entered_Rakah = 2 
+
+
+This is the prompt = 'My name is Abdullah. I am making niyat of Namaz Asr. I am going to offer Farz Namaz with total rakkah 4.'
+
+Give its relations:

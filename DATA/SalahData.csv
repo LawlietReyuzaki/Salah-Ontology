@@ -1,0 +1,64 @@
+﻿person_id,StartTime,Postures,Total_Rakah,Salah_Name,RakahNumber,Rakah,Salah,SalahUnit_Type,SalahUnit,Time,Etime,PosturesName,UnitRakah
+mahaRiaz, 2021-11-19 12:37:13:195,SN_Rakah1_P1,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Qayam,2
+mahaRiaz, 2021-11-19 12:37:35:188,SN_Rakah1_P2,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Ruku,2
+mahaRiaz, 2021-11-19 12:37:39:370,SN_Rakah1_P3,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Qoum,2
+mahaRiaz, 2021-11-19 12:37:42:953,SN_Rakah1_P4,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Sajda,2
+mahaRiaz, 2021-11-19 12:37:47:040,SN_Rakah1_P5,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Jalsa,2
+mahaRiaz, 2021-11-19 12:37:49:124,SN_Rakah1_P6,2,Zuhr,1,SN_rakah1,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Sajda,2
+mahaRiaz, 2021-11-19 12:37:57:486,SN_Rakah2_P1,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Qayam,2
+mahaRiaz, 2021-11-19 12:38:17:093,SN_Rakah2_P2,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Ruku,2
+mahaRiaz, 2021-11-19 12:38:21:970,SN_Rakah2_P3,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Qoum,2
+mahaRiaz, 2021-11-19 12:38:25:356,SN_Rakah2_P4,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Sajda,2
+mahaRiaz, 2021-11-19 12:38:30:232,SN_Rakah2_P5,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Jalsa,2
+mahaRiaz, 2021-11-19 12:38:37:909,SN_Rakah2_P7,2,Zuhr,2,SN_rakah2,S1,Sunnah,SN-R2_Sjada2_miss, 2021-11-19 12:37:13:195, 2021-11-19 12:38:37:909,Tashahud,2
+mahaRiaz, 2021-11-19 12:24:14:130,FZ_Rakah1_P1,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qayam,3
+mahaRiaz, 2021-11-19 12:24:35:736,FZ_Rakah1_P2,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Ruku,3
+mahaRiaz, 2021-11-19 12:24:40:616,FZ_Rakah1_P3,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qoum,3
+mahaRiaz, 2021-11-19 12:24:44:401,FZ_Rakah1_P4,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:24:49:082,FZ_Rakah1_P5,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Jalsa,3
+mahaRiaz, 2021-11-19 12:24:51:771,FZ_Rakah1_P6,3,Maghrib,1,FZ_rakah1,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:24:58:045,FZ_Rakah2_P1,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qayam,3
+mahaRiaz, 2021-11-19 12:25:17:567,FZ_Rakah2_P2,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Ruku,3
+mahaRiaz, 2021-11-19 12:25:21:749,FZ_Rakah2_P3,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qoum,3
+mahaRiaz, 2021-11-19 12:25:25:234,FZ_Rakah2_P4,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:25:30:811,FZ_Rakah2_P5,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Jalsa,3
+mahaRiaz, 2021-11-19 12:25:33:000,FZ_Rakah2_P6,3,Maghrib,2,FZ_rakah2,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:25:49:631,FZ_Rakah3_P1,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qayam,3
+mahaRiaz, 2021-11-19 12:26:39:632,FZ_Rakah3_P2,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Ruku,3
+mahaRiaz, 2021-11-19 12:26:43:915,FZ_Rakah3_P3,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Qoum,3
+mahaRiaz, 2021-11-19 12:26:47:301,FZ_Rakah3_P4,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:26:52:280,FZ_Rakah3_P5,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Jalsa,3
+mahaRiaz, 2021-11-19 12:26:54:969,FZ_Rakah3_P6,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Sajda,3
+mahaRiaz, 2021-11-19 12:27:00:547,FZ_Rakah3_P7,3,Maghrib,3,FZ_rakah3,S1,Farz,FZ_R2_tashahud_miss, 2021-11-19 12:24:14:130, 2021-11-19 12:27:00:547,Tashahud,3
+Ayesha Ahmad _18,2021-11-20_14:48:02:143,SN3_rakah1_P2,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qayam,4
+Ayesha Ahmad _18,2021-11-20_14:48:10:413,SN3_rakah1_P3,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Ruku,4
+Ayesha Ahmad _18,2021-11-20_14:48:11:924,SN3_rakah1_P4,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qoum,4
+Ayesha Ahmad _18,2021-11-20_14:48:14:291,SN3_rakah1_P5,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda1,4
+Ayesha Ahmad _18,2021-11-20_14:48:15:996,SN3_rakah1_P6,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Jalsa1,4
+Ayesha Ahmad _18,2021-11-20_14:48:17:044,SN3_rakah1_P7,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda2,4
+Ayesha Ahmad _18,2021-11-20_14:48:42:015,SN3_rakah2_P7,4,Asr,1,SN3_rakah1,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Tashahud,4
+Ayesha Ahmad _18,2021-11-20_14:48:50:642,SN3_rakah3_P1,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qayam,4
+Ayesha Ahmad _18,2021-11-20_14:48:56:933,SN3_rakah3_P2,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Ruku,4
+Ayesha Ahmad _18,2021-11-20_14:48:58:289,SN3_rakah3_P3,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qoum,4
+Ayesha Ahmad _18,2021-11-20_14:49:01:058,SN3_rakah3_P4,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda1,4
+Ayesha Ahmad _18,2021-11-20_14:49:03:288,SN3_rakah3_P5,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Jalsa1,4
+Ayesha Ahmad _18,2021-11-20_14:49:04:482,SN3_rakah3_P6,4,Asr,3,SN3_rakah3,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda2,4
+Ayesha Ahmad _18,2021-11-20_14:49:11:639,SN3_rakah4_P1,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qayam,4
+Ayesha Ahmad _18,2021-11-20_14:49:18:461,SN3_rakah4_P2,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Ruku,4
+Ayesha Ahmad _18,2021-11-20_14:49:20:281,SN3_rakah4_P3,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Qoum,4
+Ayesha Ahmad _18,2021-11-20_14:49:22:503,SN3_rakah4_P4,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda1,4
+Ayesha Ahmad _18,2021-11-20_14:49:24:566,SN3_rakah4_P5,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Jalsa1,4
+Ayesha Ahmad _18,2021-11-20_14:49:25:727,SN3_rakah4_P6,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Sajda2,4
+Ayesha Ahmad _18,2021-11-20_14:49:28:908,SN3_rakah4_P7,4,Asr,4,SN3_rakah4,S7,Sunnah,SN3_R2_missed,2021-11-20_14:48:00:262,2021-11-20_14:49:28:908,Tashahud,4
+ubaid ullah_19,2021-11-20_4:39:07:323,FZ3_rakah1_P2,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Qayam,2
+ubaid ullah_19,2021-11-20_4:39:17:829,FZ3_rakah1_P3,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Ruku,2
+ubaid ullah_19,2021-11-20_4:39:19:392,FZ3_rakah1_P4,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Qoum,2
+ubaid ullah_19,2021-11-20_4:39:21:485,FZ3_rakah1_P5,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Sajda1,2
+ubaid ullah_19,2021-11-20_4:39:23:800,FZ3_rakah1_P6,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Jalsa1,2
+ubaid ullah_19,2021-11-20_4:39:25:346,FZ3_rakah1_P7,2,Fajar,1,FZ3_rakah1,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Sajda2,2
+ubaid ullah_19,2021-11-20_4:39:30:911,FZ3_rakah2_P1,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Qayam,2
+ubaid ullah_19,2021-11-20_4:39:40:445,FZ3_rakah2_P2,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Ruku,2
+ubaid ullah_19,2021-11-20_4:39:44:230,FZ3_rakah2_P4,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Sajda1,2
+ubaid ullah_19,2021-11-20_4:39:46:837,FZ3_rakah2_P5,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Jalsa1,2
+ubaid ullah_19,2021-11-20_4:39:48:187,FZ3_rakah2_P6,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Sajda2,2
+ubaid ullah_19,2021-11-20_4:39:51:182,FZ3_rakah2_P7,2,Fajar,2,FZ3_rakah2,S6,Farz,FZ3_R2_Qoum_missed,2021-11-20_4:39:05:757,2021-11-20_4:39:51:182,Tashahud,2
